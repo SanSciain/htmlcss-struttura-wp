@@ -17,17 +17,22 @@
     margin: 20px auto;
 }
 
+/* Header */
 header{ 
     height: 100px;
     background-color: #e579e6;
 }
 
+/* Main */
+
+/* Sezione 1 */
 .section1{
     height: 500px;
     background-color: #e1d67a;
     margin: 20px 0;
 }
 
+/* Sezione 2 */
 .section2{
     background-color: #0186fe;
     margin-bottom: 5px;
@@ -56,6 +61,7 @@ header{
     margin: 15px 15px;
 }
 
+/* Footer */
 footer{
     height: 50px;
     background-color: #8801fe;
